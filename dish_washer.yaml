@@ -1,0 +1,6 @@
+---
+substitutions:
+  id: dish_washer
+  name: Dish Washer
+
+<<: !include devices/teckin_sp23.yaml

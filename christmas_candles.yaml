@@ -1,0 +1,6 @@
+---
+substitutions:
+  id: christmas_candles
+  name: Christmas Candles
+
+<<: !include devices/teckin_sp23.yaml
